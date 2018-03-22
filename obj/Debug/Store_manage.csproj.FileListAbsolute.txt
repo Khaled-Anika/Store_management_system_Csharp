@@ -1,0 +1,36 @@
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\bin\Debug\Store_manage.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\bin\Debug\Store_manage.exe
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\bin\Debug\Store_manage.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.exe
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Biodata.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Issue.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Category.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Sell.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Complaint.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.ShowSell.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Welcome.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.LogIn.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.Storage.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\Store_manage\Store_manage\obj\Debug\Store_manage.MainForm.resources
+F:\Store_manage\Store_manage\bin\Debug\Store_manage.exe.config
+F:\Store_manage\Store_manage\bin\Debug\Store_manage.exe
+F:\Store_manage\Store_manage\bin\Debug\Store_manage.pdb
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.csprojResolveAssemblyReference.cache
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Storage.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Biodata.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Category.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Complaint.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.LogIn.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Issue.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.MainForm.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Properties.Resources.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Sell.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.ShowSell.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.Welcome.resources
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.csproj.GenerateResource.Cache
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.exe
+F:\Store_manage\Store_manage\obj\Debug\Store_manage.pdb
